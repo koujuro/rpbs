@@ -1,0 +1,166 @@
+main#main {
+    height: 100vh;
+
+    display: grid;
+
+    grid-template-columns: 7fr 9fr;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-areas:
+            "info login"
+            "info login"
+;
+    align-items: stretch;
+    justify-content: center;
+}
+
+section#login {
+    grid-area: login;
+}
+
+section#info {
+    grid-area: info;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#info h1, h3, p {
+    color: #0c96b0;
+    text-align: center;
+}
+
+#info h1 {
+    font-size: 75px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+#info .main-text {
+    font-size: 18px;
+    margin-left: 10%;
+    margin-right: 5%;
+    text-align: justify;
+}
+
+#info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#info ul li {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+
+    color: #555;
+    border-bottom: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+#info li a {
+    color: #0c96b0;
+    text-decoration: none;
+}
+
+#info li span.name {
+    font-weight: bold;
+}
+
+#scroller {
+    display: none;
+    width: 30px;
+
+    position: absolute;
+    bottom: 20px;
+    animation: blink 1s linear infinite;
+
+    cursor: pointer;
+}
+
+#scroller img {
+    width: 100%;
+    position: relative;
+}
+
+#scroller img:nth-child(3) { top: 0; opacity: 1 }
+#scroller img:nth-child(2) { top: 12px; opacity: .8 }
+#scroller img:nth-child(1) { top: 24px; opacity: .6 }
+
+/* ============================ */
+/* ====== Contact Form ======== */
+/* ============================ */
+
+form input, textarea {
+    padding: 10px;
+    border: 1px solid #E5E5E5;
+    width: 400px;
+    color: #999999;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+}
+
+form textarea {
+    max-width: 400px;
+    min-width: 400px;
+    max-height: 100px;
+    min-height: 100px;
+}
+
+input#submitContactForm {
+    padding: 10px 30px;
+    background-color: #0987a0;
+
+    box-shadow: 0 0px 0px 2px rgba(0, 110, 152, .8);
+    font-size: 20px;
+    color: #fff;
+
+    border: none;
+
+    font-weight: bold;
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    position: relative;
+}
+
+/* ============================ */
+
+@keyframes blink {
+    0% { bottom: 20px; opacity: 1 }
+    100% { bottom: 5px; opacity: 0 }
+}
+
+
+@media screen and (max-width: 1441px) {
+    main#main {
+        height: 200vh;
+
+        grid-template-areas:
+                "info info"
+                "login login"
+    ;
+    }
+
+    #scroller {
+        display: block;
+    }
+}
+
+
+@media screen and (max-width: 476px) {
+    #info ul {
+        width: 100%;
+    }
+
+    #info ul li {
+        width: auto;
+    }
+
+    #info {
+        padding: 0 20px;
+    }
+}
+

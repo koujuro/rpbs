@@ -1,0 +1,168 @@
+/* Input ide ovako da bi ostao u formi ( iako zapravo ne trenira ) */
+input[name="applyFilters"] {
+    position: absolute;
+    top: 30px;
+    right: 15px;
+
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #01aef0;
+    border: none;
+    outline: none;
+
+    cursor: pointer;
+
+    border-radius: 5px;
+    font-size: 22px;
+}
+/* Input ide ovako da bi ostao u formi ( iako zapravo ne trenira ) */
+
+
+
+
+
+
+
+
+/* Filters grid */
+
+/* Sakrivam sve osim buttona */
+form > *:not([type=submit]) {
+    display: none !important;
+}
+/* Sakrivam sve osim buttona */
+
+
+
+.filter-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0,0,0, .2);
+
+    margin-top: 50px;
+}
+
+.filter-grid > div {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+.filter-heading {
+    text-align: center;
+    font-weight: normal;
+
+    color: #656565;
+    font-size: 22px;
+
+    margin: 0;
+    padding: 8px 0;
+
+    border-bottom: 2px solid #ddd;
+}
+
+.dates .filter-heading:not(:nth-child(1)) {
+    border-top: 2px solid #ddd;
+}
+
+.date-from, .date-to {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filter-search {
+    position: relative;
+
+    border-bottom: 2px solid #ddd;
+    margin: 15px 20px;
+}
+
+.filter-search input {
+    border: none;
+
+    font-size: 17px;
+    padding-bottom: 3px;
+    outline: none;
+}
+.filter-search input::placeholder { color: #aaa }
+
+.filter-search button {
+    border: none;
+    background-color: transparent;
+
+    cursor: pointer;
+    outline: none;
+
+    position: absolute;
+    right: 0;
+}
+.filter-search button img { width: 17px; }
+
+.filter-option.active {
+    background-color: #01aef0;
+    color: #fff;
+}
+
+.filter-option.active .option-id {
+    color: #fff;
+}
+
+.filter-option {
+    padding: 8px 20px;
+
+    cursor: pointer;
+    color: #656565;
+}
+
+.filter-option .option-id {
+    color: #888;
+    font-weight: bold;
+    font-size: 17px;
+
+    margin-right: 10px;
+}
+
+/* Filters grid */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Calendar styles */
+.pickmeup {
+    background-color: #fff !important;
+    border-radius: 0 !important;
+}
+
+.pmu-button {
+    color: #000 !important;
+}
+
+.pmu-button.pmu-not-in-month {
+    color: #bbb !important;
+}
+
+.pmu-button.pmu-today {
+    color: #fff !important;
+    background-color: #94D7F0 !important;
+    border-radius: 5px;
+}
+
+.pmu-button.pmu-selected {
+    background-color: #01aef0 !important;
+    border-radius: 5px;
+    color: #fff !important;
+}
+
+/* Calendar styles */
+

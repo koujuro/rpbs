@@ -1,0 +1,8 @@
+/* Navigation active page setting */
+#navigation .links a[href="client_object_edit.php"] {
+    color: #01aef0;
+}
+#navigation .links a[href="measuring_devices.php"] {
+    color: black;
+}
+/* Navigation active page setting */

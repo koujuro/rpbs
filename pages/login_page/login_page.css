@@ -1,0 +1,128 @@
+#login-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+
+    background-image: linear-gradient(90deg, #14cbeb, #0c96b0);
+
+    position: relative;
+    height: 100%;
+
+
+    -webkit-clip-path: polygon(22% 0, 100% 0, 100% 100%, 0 100%);
+    clip-path: polygon(22% 0, 100% 0, 100% 100%, 0 100%);
+}
+
+#fe-broken, #fe-working {
+    z-index: 1;
+}
+
+#fe-working {
+    width: 300px;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+}
+
+#fe-broken {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+    width: 450px;
+}
+
+.center {
+    position: relative;
+    z-index: 2;
+    /*background-color: rgba(255,255,255,.7);*/
+    /*padding: 30px;*/
+}
+
+#loginForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    margin-top: 30px;
+}
+
+#loginForm input {
+    outline: none;
+    border: none;
+
+    border-bottom: 2px solid #fff;
+    width: 300px;
+    background-color: transparent;
+
+    margin: 10px 0;
+    font-size: 25px;
+    padding: 0 10px 5px;
+}
+
+#loginForm input::placeholder {
+    color: #fff;
+    text-align: center;
+    font-weight: 200;
+
+    position: relative;
+}
+
+.loginSubmit {
+    padding: 10px 30px;
+    background-color: #fff;
+
+    box-shadow: 0 5px 15px 2px rgba(0, 110, 152, .8);
+    font-size: 20px;
+    color: #0987a0;
+
+    border: none;
+
+    font-weight: bold;
+    border-radius: 10px;
+
+    margin-top: 40px;
+    cursor: pointer;
+
+    position: relative;
+}
+
+.loginSubmit:hover {
+    color: #14cbeb !important;
+}
+
+.platform-name, .platform-description {
+    color: #004b55;
+}
+
+.platform-description {
+    font-size: 25px;
+    font-weight: 200;
+
+    margin-top: 0;
+}
+
+.platform-name {
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+
+    margin: 15px 0 10px;
+}
+
+
+@media screen and (max-width: 1441px) {
+    #login-page {
+        clip-path: none;
+        -webkit-clip-path: none;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .platform-name {
+        color: #fff;
+    }
+}

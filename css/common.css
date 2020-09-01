@@ -1,0 +1,351 @@
+/* Body styles */
+
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+
+    background-color: #f5f5f5;
+}
+
+.container {
+    max-width: 1360px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Body styles */
+
+
+
+
+
+
+
+
+
+/* Navigation styles */
+
+
+#navigation {
+    height: 70px;
+    padding: 0 20px;
+
+    background-color: #fff;
+    box-shadow: 0px -5px 30px 0px rgba(0,0,0, .3);
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+
+#navigation #accountName {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+
+    line-height: 70px;
+    font-weight: bold;
+
+    color: #777;
+    cursor: default;
+}
+
+#navigation .links a, .dropdown {
+    height: 100%;
+    padding: 0 15px;
+    text-decoration: none;
+    color: #000;
+
+    display: inline-flex;
+    align-items: center;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+#navigation .links a:hover {
+    background-color: rgba(1,174,240,.1);
+}
+
+.dropdown {
+    display: inline-block;
+    padding: 0 0;
+}
+
+.dropdown-content {
+    padding: 0 0;
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 190px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black !important;
+    padding: 12px 16px !important;
+    text-decoration: none !important;
+    display: block !important;
+    text-align: left !important;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+/* Navigation styles */
+
+
+
+
+
+
+
+
+
+/* Table styles */
+
+
+table.default-table {
+    width: 100%;
+    box-shadow: 0 3px 15px 0 rgba(0,0,0,.1);
+    border-spacing: 0;
+}
+
+table.default-table tr:nth-child(even) {
+    background-color: #eee;
+}
+table.default-table tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+table.default-table td, table.default-table th {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    padding: 15px 0;
+    color: #777;
+}
+
+table.default-table button[name="moreButton"] {
+    background-color: transparent;
+    border: none !important;
+    font-size: 17px;
+    color: #01aef0;
+
+    margin: -15px 0;
+    cursor: pointer;
+}
+
+table.default-table button[name="moreButton"] img {
+    width: 21px;
+    vertical-align: bottom;
+
+    margin-left: 8px;
+}
+
+
+
+
+
+/* Table styles */
+
+
+
+
+
+
+
+
+
+/* Applied filters */
+
+.container {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.applied-filters {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+
+    align-content: center;
+}
+
+.filters-section {
+    display: flex;
+
+    flex-wrap: wrap;
+    align-items: center;
+
+    margin-top: 30px;
+}
+
+.filters-section h2 {
+    color: #888;
+    font-weight: normal;
+
+    margin: 0 30px 0 5px;
+}
+
+.filters-section a {
+    display: inline-block;
+    margin: 0 30px 0 5px;
+}
+
+.filters-section .filters {
+    display: flex;
+    flex-wrap: wrap;
+
+    align-items: center;
+
+    margin-top: 18px;
+}
+
+.filter {
+    border-radius: 100px;
+
+    padding: 3px 12px;
+    margin: 8px;
+
+    background-color: #fff;
+    box-shadow: 0 2px 10px 0 rgba(0,0,0, .2);
+    color: #888;
+
+    font-size: 18px;
+}
+
+.removeFilter {
+    background-color: transparent;
+    color: #888;
+
+    font-size: 22px;
+    border: none;
+    outline: none;
+
+    cursor: pointer;
+
+    margin-right: 10px;
+}
+
+
+/* Applied filters */
+
+
+
+
+
+
+
+
+
+
+
+
+/* Search and pagination */
+
+#actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    height: 70px;
+}
+
+#pagination {
+    display: flex;
+}
+
+#pagination a {
+    display: inline-flex;
+    align-items: center;
+    height: 20px;
+
+    margin: 0 15px;
+}
+
+#pagination a img {
+    height: 15px;
+}
+
+#pagination #prev-page img {
+    transform: rotate(180deg);
+}
+
+#pagination #page-info {
+    font-family: "Montserrat", sans-serif;
+    color: #999;
+
+    font-size: 15px;
+    line-height: 22px;
+}
+
+
+.input-activation {
+    background-color: transparent;
+    border: none !important;
+    outline: none;
+    cursor: pointer;
+
+}
+
+.input-activation img {
+    width: 15px;
+}
+
+.search-group {
+    height: 22px;
+
+
+    display: inline-flex;
+    align-items: center;
+}
+
+
+input#search {
+    width: 200px;
+    border: none;
+
+    font-size: 15px;
+    background-color: transparent;
+
+    color: #656565;
+    padding-bottom: 3px;
+    outline: none;
+
+    border-bottom: 1px solid #aaa;
+}
+
+input#search::placeholder { color: #aaa }
+
+#map {
+    height: 700px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+}
+
+
+
+
+/* Search and pagination */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

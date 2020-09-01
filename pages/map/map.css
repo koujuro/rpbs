@@ -1,0 +1,6 @@
+#navigation .links a[href="../map/map.php"] {
+    color: #01aef0;
+}
+#navigation .links a[href="../dashboard/dashboard.php"] {
+    color: black;
+}

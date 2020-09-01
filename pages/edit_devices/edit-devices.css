@@ -1,0 +1,185 @@
+/* Navigation active page setting */
+#navigation .links a[href="../edit_devices/edit_devices.php"] {
+    color: #01aef0;
+}
+/* Navigation active page setting */
+
+/* device selection */
+
+.filter-grid {
+    display: grid;
+    grid-template-columns: 250px 500px 1fr;
+    grid-column-gap: 150px;
+
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0,0,0, .2);
+
+    margin-top: 50px;
+    padding: 30px 40px;
+}
+
+.filter-grid > .types-page {
+    border: 2px solid #ddd;
+    border-radius: 7px;
+
+    /*min-height: 500px;*/
+}
+
+.types-page .actions {
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter-heading {
+    text-align: center;
+    font-weight: normal;
+
+    color: #656565;
+    font-size: 22px;
+
+    margin: 0;
+    padding: 8px 0;
+
+    border-bottom: 2px solid #ddd;
+}
+
+.filter-search {
+    position: relative;
+
+    border-bottom: 2px solid #ddd;
+    margin: 15px 20px;
+}
+
+.filter-search input {
+    border: none;
+
+    font-size: 17px;
+    padding-bottom: 3px;
+    outline: none;
+
+    width: 150px;
+}
+.filter-search input::placeholder { color: #aaa }
+
+.filter-search button {
+    border: none;
+    background-color: transparent;
+
+    cursor: pointer;
+    outline: none;
+
+    position: absolute;
+    right: 0;
+}
+.filter-search button img { width: 17px; }
+
+.devices-wrapper {
+    max-height: calc(100vh - 340px);
+    overflow-y: auto;
+}
+
+.devices-wrapper.ppas {
+    max-height: calc(100vh - 400px);
+}
+
+.default-button {
+    background-color: #01aef0;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+    font-size: 17px;
+    padding: 8px;
+    cursor: pointer;
+    border: none !important;
+    border-radius: 5px;
+}
+
+.filter-option.active {
+    background-color: #01aef0;
+    color: #fff;
+}
+
+.filter-option.active .option-id {
+    color: #fff;
+}
+
+.filter-option {
+    padding: 8px 20px;
+
+    cursor: pointer;
+    color: #656565;
+}
+
+.filter-option .option-id {
+    color: #888;
+    font-weight: bold;
+    font-size: 17px;
+
+    margin-right: 10px;
+}
+
+
+
+/* ======================================================================================== */
+/* SAKRIVAM SELECT, I DALJE JE TU I MORA BITI, DO NOT TOUCH!!!!!!! =========================*/
+/* ======================================================================================== */
+
+#deviceDropdown {
+    display: none;
+}
+
+/* ======================================================================================== */
+/* ======================================================================================== */
+
+#devicePreviewSection {
+    padding: 50px 0;
+}
+
+/* OVDE IZMENIS U ID GDE GOD VIDIS deviceInputs */
+.deviceInputs .input-group {
+    margin: 15px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.deviceInputs input:not([type=radio]),
+.deviceInputs select {
+    border: 2px solid #ddd;
+    width: 250px;
+}
+
+.deviceInputs .buttons {
+    margin-top: 40px;
+}
+
+.deviceInputs .buttons button,input#unesi, #istorijat {
+    padding: 5px 40px;
+
+    border: 2px solid #01aef0;
+    border-radius: 5px;
+    font-size: 25px;
+}
+.buttons input#unesi {
+    color: #fff;
+    background-color: #01aef0;
+    cursor: pointer;
+}
+.buttons button#istorijat {
+    color: #01aef0;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+#istorijat {
+    text-decoration: none;
+    color: #01aef0
+}
+
+/* OVDE IZMENIS U ID GDE GOD VIDIS deviceInputs KRAJ, brisi ova komentara posle slobodno */
+
+
+
+
+
+/* device selection */

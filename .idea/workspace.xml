@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e25a826-e6aa-4cae-9f9d-6aed1db5235a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/database/DataBaseConfig.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/db_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="61" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/reports/obr-r08-35-1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/reports/obr-38-2.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/reports/zapis-aparati.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/reports/zapis-kontrolisanje.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/img/</find>
+      <find>displayObjectInputs</find>
+      <find>index</find>
+      <find>header(&quot;location: index.php&quot;)</find>
+      <find>require_once</find>
+      <find>header(&quot;location</find>
+      <find>require_once &quot;header/nav_menu.php&quot;</find>
+      <find>%name</find>
+      <find>control_history.php?</find>
+      <find>show_acc``</find>
+      <find>display_bar</find>
+      <find>uploads</find>
+      <find>landing.</find>
+      <find>login_page.css</find>
+      <find>style.css</find>
+      <find>editDevicesLink</find>
+      <find>measuring-devices.css</find>
+      <find>landing.css</find>
+      <find>history.css</find>
+      <find>.user</find>
+      <find>sendReportData(</find>
+      <find>addMoreFilters</find>
+      <find>scripts.js</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>header(&quot;location: ../../index.php&quot;)</replace>
+      <replace />
+      <replace>require_once &quot;../../header/nav_menu.php&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/pages/client_object_edit</dir>
+      <dir>$PROJECT_DIR$/pages/edit_devices</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/super_admin/creating_company.php" />
+        <option value="$PROJECT_DIR$/pages/super_admin/super_admin_dashboard.php" />
+        <option value="$PROJECT_DIR$/pages/edit_devices/edit_devices.php" />
+        <option value="$PROJECT_DIR$/pages/device_info/history.css" />
+        <option value="$PROJECT_DIR$/pages/map/get_locations.php" />
+        <option value="$PROJECT_DIR$/pages/notifications/notifications.css" />
+        <option value="$PROJECT_DIR$/css/dashboard.css" />
+        <option value="$PROJECT_DIR$/pages/map/map.css" />
+        <option value="$PROJECT_DIR$/pages/map/map.php" />
+        <option value="$PROJECT_DIR$/pages/edit_devices/edit-devices.css" />
+        <option value="$PROJECT_DIR$/header/nav_menu.php" />
+        <option value="$PROJECT_DIR$/pages/edit_devices/edit_ppas.php" />
+        <option value="$PROJECT_DIR$/pages/edit_devices/edit_upps.php" />
+        <option value="$PROJECT_DIR$/pages/edit_devices/edit_hydrants.php" />
+        <option value="$PROJECT_DIR$/css/admin-panel.css" />
+        <option value="$PROJECT_DIR$/pages/admin_panel/admin-panel.css" />
+        <option value="$PROJECT_DIR$/pages/users_data_edit/users_data_edit.css" />
+        <option value="$PROJECT_DIR$/css/measuring-devices.css" />
+        <option value="$PROJECT_DIR$/assets/asset_handlers/HTMLLinker.php" />
+        <option value="$PROJECT_DIR$/header/types_of_headers/devices_header.php" />
+        <option value="$PROJECT_DIR$/header/types_of_headers/reports_header.php" />
+        <option value="$PROJECT_DIR$/classes/uploadImage/UploadImage.php" />
+        <option value="$PROJECT_DIR$/header/header.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/pages/client_object_edit/client_object_edit.css" />
+        <option value="$PROJECT_DIR$/pages/measuring_devices/measuring_devices.php" />
+        <option value="$PROJECT_DIR$/pages/users_data_edit/users_data_edit.php" />
+        <option value="$PROJECT_DIR$/handlers/measuring_devices/measuring_devices_ajax.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pages/control_history/control_history.php" />
+        <option value="$PROJECT_DIR$/pages/device_info/device_info.php" />
+        <option value="$PROJECT_DIR$/handlers/add_filter/jq_functions.js" />
+        <option value="$PROJECT_DIR$/pages/notifications/notifications.php" />
+        <option value="$PROJECT_DIR$/js/common.js" />
+        <option value="$PROJECT_DIR$/handlers/reportGenerator/reportGeneratorAjax.js" />
+        <option value="$PROJECT_DIR$/handlers/add_filter/add_filter_apply_handler.php" />
+        <option value="$PROJECT_DIR$/handlers/add_filter/add_filter_ajax.js" />
+        <option value="$PROJECT_DIR$/pages/client_object_edit/client_object_edit.php" />
+        <option value="$PROJECT_DIR$/js/shared/jq_functions.js" />
+        <option value="$PROJECT_DIR$/pages/add_filter/add_filter.php" />
+        <option value="$PROJECT_DIR$/js/filters.js" />
+        <option value="$PROJECT_DIR$/pages/dashboard/dashboard.php" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/pages/report_generating/report_generating.css" />
+        <option value="$PROJECT_DIR$/classes/html_utilities/HTMLUtilities.php" />
+        <option value="$PROJECT_DIR$/android/db_config.php" />
+        <option value="$PROJECT_DIR$/pages/report_generating/report_generating.php" />
+        <option value="$PROJECT_DIR$/assets/reports/obr-r08-35-1.php" />
+        <option value="$PROJECT_DIR$/assets/reports/zapis-aparati.php" />
+        <option value="$PROJECT_DIR$/assets/reports/zapis-kontrolisanje.php" />
+        <option value="$PROJECT_DIR$/classes/database/DataBaseConfig.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="799" />
+    <option name="height" value="872" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RPBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPBS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPBS" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPBS" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPBS" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PBS" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js/shared" />
+      <recent name="$PROJECT_DIR$/css/shared" />
+      <recent name="$PROJECT_DIR$/pages/login_page" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/classes/reports/types" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e25a826-e6aa-4cae-9f9d-6aed1db5235a" name="Default Changelist" comment="" />
+      <created>1555934519179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555934519179</updated>
+      <workItem from="1555934520659" duration="211000" />
+      <workItem from="1555934783756" duration="9164000" />
+      <workItem from="1556184220588" duration="8787000" />
+      <workItem from="1556529097884" duration="623000" />
+      <workItem from="1556531496505" duration="16588000" />
+      <workItem from="1556556585438" duration="1451000" />
+      <workItem from="1556613238982" duration="324000" />
+      <workItem from="1556631190651" duration="309000" />
+      <workItem from="1556898768884" duration="4772000" />
+      <workItem from="1557228240205" duration="143000" />
+      <workItem from="1557228401670" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43021000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1600" height="873" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2908623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32971507" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/database_assets/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header/types_of_headers/devices_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header/types_of_headers/reports_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/uploadImage/UploadImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin_panel/admin_panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="n#printCompanyInputs#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_page/login_page.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_page/log_in_menu.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_page/login_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/pages/device_info/device_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/control_history/control_history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2056">
+          <folding>
+            <element signature="e#36#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/shared/measuring-devices.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/users_data_edit/users_data_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="86" column="52" selection-start-line="86" selection-start-column="52" selection-end-line="86" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/measuring_devices/measuring_devices_handler.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/measuring_devices/measuring_devices_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/measuring_devices/measuring_devices.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_page/landing.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/shared/history.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/client_object_edit/client_object_edit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/add_filter/add-filter.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js" />
+    <entry file="file://$PROJECT_DIR$/handlers/reportGenerator/reportGeneratorAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="29" column="82" selection-start-line="29" selection-start-column="82" selection-end-line="29" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/notifications/notifications.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="310" column="10" selection-start-line="310" selection-start-column="10" selection-end-line="310" selection-end-column="10" />
+          <folding>
+            <element signature="e#113#120#1" expanded="true" />
+            <element signature="e#113#120#1" expanded="true" />
+            <element signature="e#111#118#1" expanded="true" />
+            <element signature="e#111#118#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/add_filter/add_filter_delete_handler.php" />
+    <entry file="file://$PROJECT_DIR$/handlers/add_filter/filter_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/log_in/show_account_name.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/client_object_edit/jq_functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/client_object_edit/client_object_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2037">
+          <caret line="132" column="37" selection-start-line="132" selection-start-column="37" selection-end-line="132" selection-end-column="37" />
+          <folding>
+            <element signature="n#fetchClientsFromDB#0;n#!!top" />
+            <element signature="n#fetchObjectsFromDB#0;n#!!top" />
+            <element signature="n#printNewObjectClientDropdownMenuOptions#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shared/jq_functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jq_functions.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/add_filter/add_filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-369">
+          <caret line="103" column="47" lean-forward="true" selection-start-line="103" selection-start-column="47" selection-end-line="103" selection-end-column="47" />
+          <folding>
+            <element signature="e#99#106#1" expanded="true" />
+            <element signature="e#99#106#1" expanded="true" />
+            <element signature="e#97#104#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/add_filter/add_filter_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="152" column="43" selection-start-line="152" selection-start-column="43" selection-end-line="152" selection-end-column="43" />
+          <folding>
+            <element signature="e#141#405#0#PHP" />
+            <element signature="e#356#405#0#PHP" />
+            <element signature="n#checkIfFiltersAreSet#0;n#!!top" />
+            <element signature="e#445#843#0#PHP" />
+            <element signature="e#848#1246#0#PHP" />
+            <element signature="e#1251#1583#0#PHP" />
+            <element signature="e#1588#2099#0#PHP" />
+            <element signature="n#fetchClientsFromDB#0;n#!!top" />
+            <element signature="e#0#194#2" />
+            <element signature="e#79#193#0" />
+            <element signature="n#fetchObjectsFromDB#0;n#!!top" />
+            <element signature="e#0#333#2" />
+            <element signature="e#78#332#0" />
+            <element signature="e#181#331#0" />
+            <element signature="n#fetchBasicDevicesInfoFromDB#0;n#!!top" />
+            <element signature="e#0#446#2" />
+            <element signature="e#253#445#0" />
+            <element signature="e#3861#4064#0#PHP" />
+            <element signature="e#4069#4272#0#PHP" />
+            <element signature="e#4277#4464#0#PHP" />
+            <element signature="e#4469#4860#0#PHP" />
+            <element signature="e#4936#5059#0#PHP" />
+            <element signature="e#4973#5053#0#PHP" />
+            <element signature="n#printData#0;n#!!top" />
+            <element signature="n#printDeviceData#0;n#!!top" />
+            <element signature="n#printReportSection#0;n#!!top" />
+            <element signature="e#5681#6667#0#PHP" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#!!top" />
+            <element signature="n#checkAreClientObjectFiltersSet#0;n#!!top" />
+            <element signature="n#checkIfAnyFilterIsSet#0;n#!!top" />
+            <element signature="n#printNumberOfDevices#0;n#!!top" />
+            <element signature="e#0#522#2" />
+            <element signature="e#85#521#0" />
+            <element signature="e#189#520#0" />
+            <element signature="e#331#519#0" />
+            <element signature="e#7796#7909#0#PHP" />
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />
+            <element signature="e#8466#8469#0#PHP" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#9303#9308#0#PHP" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/report_generating/report_generating.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header/nav_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/reports/types/OBR_38_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="266" column="56" lean-forward="true" selection-start-line="266" selection-start-column="56" selection-end-line="266" selection-end-column="56" />
+          <folding>
+            <element signature="n#fetchExtendedReportData#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#513#882#0#PHP" />
+            <element signature="e#626#882#0#PHP" />
+            <element signature="e#824#882#0#PHP" />
+            <element signature="n#fetchDevicesFromDB#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#0#92#2" />
+            <element signature="e#1161#1568#0#PHP" />
+            <element signature="e#1627#2195#0#PHP" />
+            <element signature="e#1668#2185#0#PHP" />
+            <element signature="n#generateSQLForSingleOrMultiObjects#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#2356#2669#0#PHP" />
+            <element signature="e#2442#2546#0#PHP" />
+            <element signature="n#fetchDevicesDataForAllDevicesControls#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#0#235#0" />
+            <element signature="e#3105#3408#0#PHP" />
+            <element signature="n#fetchDevicesDataForHydrantControl#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#0#279#0" />
+            <element signature="e#3863#4244#0#PHP" />
+            <element signature="n#fetchOperatorsFromDB#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#4382#4780#0#PHP" />
+            <element signature="e#0#112#2" />
+            <element signature="e#4633#4770#0#PHP" />
+            <element signature="n#fetchOperatorsIDs#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#4905#5377#0#PHP" />
+            <element signature="e#0#160#0" />
+            <element signature="e#5224#5367#0#PHP" />
+            <element signature="n#fetchMeasuringDevicesFromDB#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#0#168#2" />
+            <element signature="e#5741#5807#0#PHP" />
+            <element signature="e#5909#6028#0#PHP" />
+            <element signature="n#fetchObjectsBySameAddress#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#6158#6985#0#PHP" />
+            <element signature="e#6229#6975#0#PHP" />
+            <element signature="e#0#89#2" />
+            <element signature="e#6679#6961#0#PHP" />
+            <element signature="e#6728#6943#0#PHP" />
+            <element signature="n#getObjects#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="n#getOperators#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="n#getMeasuringDevices#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="n#getDevicesControls#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="n#generateHTMLForOperators#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="e#7907#8824#0#PHP" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#!!top" />
+            <element signature="n#generateHTMLDescriptionOfHydrantNetwork#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#h3#0;n#div#0;n#!!top" />
+            <element signature="e#9338#9842#0#PHP" />
+            <element signature="e#9393#9832#0#PHP" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#generateHTMLForNetworkSatisfaction#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="e#0#166#2" />
+            <element signature="e#122#165#0" />
+            <element signature="e#13445#13555#0#PHP" />
+            <element signature="e#13565#14185#0#PHP" />
+            <element signature="e#13710#14185#0#PHP" />
+            <element signature="e#13954#14185#0#PHP" />
+            <element signature="n#updateDB#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="n#updateDBForOperators#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#14453#14812#0#PHP" />
+            <element signature="e#0#138#1" />
+            <element signature="n#updateDBForDevicesData#0;n#OBR_38_2#0;n#!!top" />
+            <element signature="e#14885#16930#0#PHP" />
+            <element signature="e#0#173#1" />
+            <element signature="e#0#303#1" />
+            <element signature="e#0#732#1" />
+            <element signature="e#264#731#0" />
+            <element signature="e#424#730#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/reports/Report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+          <folding>
+            <element signature="e#119#163#0#PHP" />
+            <element signature="n#fetchMainReportData#0;n#Report#0;n#!!top" />
+            <element signature="n#fetchMainReportDataFromSessions#0;n#Report#0;n#!!top" />
+            <element signature="e#726#886#0#PHP" />
+            <element signature="e#895#1055#0#PHP" />
+            <element signature="n#fetchCompanyByProfileFromDB#0;n#Report#0;n#!!top" />
+            <element signature="e#0#177#2" />
+            <element signature="e#34#176#0" />
+            <element signature="e#1506#1622#0#PHP" />
+            <element signature="n#fetchClientFromDB#0;n#Report#0;n#!!top" />
+            <element signature="e#0#77#2" />
+            <element signature="e#1839#1954#0#PHP" />
+            <element signature="n#fetchObjectFromDB#0;n#Report#0;n#!!top" />
+            <element signature="e#0#174#2" />
+            <element signature="e#2269#2446#0#PHP" />
+            <element signature="n#getObject#0;n#Report#0;n#!!top" />
+            <element signature="n#getCompany#0;n#Report#0;n#!!top" />
+            <element signature="n#getClient#0;n#Report#0;n#!!top" />
+            <element signature="n#getDevices#0;n#Report#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/report_generating/report_generating.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <folding>
+            <element signature="n#addingFiltersToReportLink#0;n#!!top" />
+            <element signature="n#checkIfMeasuringDevicesAreNeeded#0;n#!!top" />
+            <element signature="n#checkIfMeasuringDevicesAreSet#0;n#!!top" />
+            <element signature="n#executingShellCommandForGeneratingReport#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="n#!!block;n#applyClientFilter#0" />
+            <element signature="n#!!block;n#applyTypeFilter#0" />
+            <element signature="n#!!block;n#applyTimeFilter#0" />
+            <element signature="n#!!block;n#sendControlType#0" />
+            <element signature="n#!!block;n#applyTimeFilterForFollowingPeriod#0" />
+            <element signature="n#!!block;n#parseTimeFilterForFollowingPeriod#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/html_utilities/HTMLUtilities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/reports/obr-r08-35-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/reports/obr-38-2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/reports/zapis-aparati.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/reports/zapis-kontrolisanje.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/db_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/database/DataBaseConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
